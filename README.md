@@ -10,9 +10,8 @@
         <p>⚡ Sempre em busca da excelência, dentro e fora de campo</p>
       </td>
       <td align="center" width="30%">
-        <img src="https://logoeps.com/wp-content/uploads/2014/03/gremio-vector-logo.png" width="120" height="120"/>
+        <img src="Gremio_logo.svg.png" width="120" height="120"/>
         <br>
-        <strong>🇪🇪 IMORTAL TRICOLOR</strong>
       </td>
     </tr>
   </table>
