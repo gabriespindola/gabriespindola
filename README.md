@@ -1,149 +1,159 @@
-# ⚡ Olá, eu sou [Seu Nome]! 🇪🇪
+# ⚡ Gabriel Espindola | Desenvolvedor Full Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <strong>Desenvolvedor Tricolor | Imortal Tricolor</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <table>
+    <tr>
+      <td align="left" width="70%">
+        <h3>🖥️ Desenvolvedor Tricolor | Imortal Tricolor</h3>
+        <p>💙 Transformando código em soluções, com a garra do Grêmio!</p>
+        <p>🚀 Full Stack Developer | Node.js & React Enthusiast</p>
+        <p>⚡ Sempre em busca da excelência, dentro e fora de campo</p>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://logoeps.com/wp-content/uploads/2014/03/gremio-vector-logo.png" width="120" height="120"/>
+        <br>
+        <strong>🇪🇪 IMORTAL TRICOLOR</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 Sobre mim
+## 👨‍💻 Sobre mim
 
-```javascript
-const gremista = {
-    nome: "gabriespindola",
-    time: "Grêmio FBPA 🇪🇪",
-    paixao: "Futebol e Programação",
-    motto: "Com o Grêmio onde o Grêmio estiver! 💙🖤🤍",
-    champions: {
-        libertadores: [1983, 1995, 2017],
-        mundial: [1983],
-        copaDoBrasil: [1989, 1994, 1997, 2001, 2016],
-        brasileirao: [1981, 1996]
-    },
-    tecnologias: ["JavaScript", "TypeScript", "React", "Node.js"],
-    estudando: "Sempre em busca da excelência, como o Grêmio! 🚀"
+```typescript
+interface Developer {
+  nome: string;
+  time: string;
+  localizacao: string;
+  experiencia: string[];
+  objetivo: string;
+}
+
+const gabriel: Developer = {
+  nome: "Gabriel Espindola",
+  time: "Grêmio FBPA 🇪🇪",
+  localizacao: "Brasil 🇧🇷",
+  experiencia: ["Frontend", "Backend", "Mobile", "DevOps"],
+  objetivo: "Criar soluções que impactem positivamente a vida das pessoas"
 };
 
-console.log("Tricolor de coração! 💙");
+// Motto de vida
+console.log("Com o Grêmio onde o Grêmio estiver! 💙🖤🤍");
 ```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| **Frontend** | **Backend** | **Database** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriespindola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&icon_color=1E90FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriespindola&layout=compact&langs_count=7&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-espindola&show_icons=true&theme=dark&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700&border_color=1E90FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-espindola&layout=compact&theme=dark&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&border_color=1E90FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriespindola&theme=tokyonight&background=0A66C2&stroke=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFFF"/>
-</div>
-
----
-
-## 🏟️ Momentos Épicos do Grêmio
-
-<div align="center">
-
-### 🏆 **"O Grêmio é Imortal"** 🏆
-
-| Ano | Conquista | Emoção |
-|-----|-----------|---------|
-| 🌟 **1983** | **Libertadores + Mundial** | Lendário! 🌍 |
-| ⚡ **1995** | **Libertadores** | Inesquecível! 🏆 |
-| 💙 **2017** | **Libertadores** | GREMIÃO! 🔥 |
-
-### 🎯 **"Até a Pé Nós Iremos"** 
-*Onde o Grêmio estiver, estaremos junto! 💙🖤🤍*
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-espindola&theme=dark&background=0A66C2&stroke=FFFFFF&ring=FFD700&fire=FFD700&currStreakLabel=FFFFFF&border=1E90FF"/>
 </div>
 
 ---
 
-## 🚀 Projetos Favoritos
+## 🏆 Conquistas & Experiência
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/SEU_USERNAME/NOME_DO_REPO)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO2&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/SEU_USERNAME/NOME_DO_REPO2)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💼 Profissional</h3>
+      <ul align="left">
+        <li>🚀 Desenvolvimento de APIs REST</li>
+        <li>⚡ Aplicações React/Next.js</li>
+        <li>🔒 Autenticação JWT</li>
+        <li>🗄️ Banco de dados relacionais</li>
+        <li>🧪 Testes automatizados (Jest)</li>
+        <li>🐳 Containerização Docker</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚽ Grêmio Conquistas</h3>
+      <ul align="left">
+        <li>🌍 <strong>Mundial 1983</strong></li>
+        <li>🏆 <strong>Libertadores</strong> (1983, 1995, 2017)</li>
+        <li>🇧🇷 <strong>Brasileirão</strong> (1981, 1996)</li>
+        <li>🏅 <strong>Copa do Brasil</strong> (5 títulos)</li>
+        <li>💙 <strong>Recopa Sul-Americana</strong> (2018)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Conecte-se Comigo
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_PERFIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Futebol API](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-espindola&repo=futebol-semanal&theme=dark&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&border_color=1E90FF)](https://github.com/gabriel-espindola/futebol-semanal)
 
 </div>
 
 ---
 
-## 💙 Filosofia de Vida
+## 🌐 Conecte-se Comigo
 
 <div align="center">
 
-> *"Assim como o Grêmio nunca desiste em campo, eu nunca desisto no código!"* 💻⚡
-> 
-> **Com determinação tricolor, transformo ideias em realidade!** 🚀
->
-> *"Cada commit é uma vitória, cada deploy é um gol!"* ⚽💙
-
-### 🎵 *"Dale dale, oh! Grêmio de mi corazón!"* 🎵
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-espindola)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel-espindola)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.espindola@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://gabriel-espindola.dev)
 
 </div>
 
 ---
 
+## 💡 Filosofia & Valores
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer&text=IMORTAL%20TRICOLOR&fontSize=24&fontColor=FFFFFF&animation=twinkling"/>
+
+> ### *"Código limpo é como futebol bonito - simples, eficiente e impactante"* ⚽
+
+**🎯 Princípios:**
+- **Qualidade** sobre quantidade
+- **Colaboração** em equipe
+- **Aprendizado** contínuo
+- **Persistência** tricolor
+
 </div>
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 <div align="center">
   
-**💙 Obrigado pela visita! Que a força tricolor esteja com você! 🖤🤍**
+### 💙 *"Até a pé nós iremos, onde o Grêmio estiver!"* 🖤🤍
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME&style=for-the-badge&color=0A66C2)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=80&section=footer&text=IMORTAL%20TRICOLOR&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gabriel-espindola&color=0A66C2&style=for-the-badge)
 
 </div>
