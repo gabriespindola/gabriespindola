@@ -105,7 +105,7 @@ console.log("Com o Grêmio onde o Grêmio estiver! 💙🖤🤍");
 
 <div align="center">
 
-[![Futebol API](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-espindola&repo=futebol-semanal&theme=dark&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&border_color=1E90FF)](https://github.com/gabriel-espindola/futebol-semanal)
+[![Futebol API](https://github-readme-stats.vercel.app/api/pin/?username=montwh1te&repo=futebol-semanal&theme=dark&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&border_color=1E90FF)](https://github.com/montwh1te/futebol-semanal)
 
 </div>
 
