@@ -1,4 +1,4 @@
-# Gabriel Espindola | Desenvolvedor Full Stack Tricolor
+#   Gabriel Espindola | Desenvolvedor Full Stack Tricolor
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Gremista+de+Cora%C3%A7%C3%A3o;Transformando+C%C3%B3digo+em+Solu%C3%A7%C3%B5es;Imortal+Tricolor+%F0%9F%92%99" alt="Typing SVG" />
@@ -27,9 +27,9 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-<div align="center">
+<div align="start">
 
 ```typescript
 interface TricolorDeveloper {
@@ -57,14 +57,14 @@ const gabriel: TricolorDeveloper = {
   filosofia: "Código limpo é como futebol bonito - eficiente e memorável! ⚽"
 };
 
-console.log("🏆 Tricolor de coração desde sempre!");
+console.log("Tricolor de coração desde sempre!");
 ```
 
 </div>
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## Arsenal Tecnológico
 
 <div align="center">
 
@@ -82,7 +82,7 @@ console.log("🏆 Tricolor de coração desde sempre!");
 
 ---
 
-## 📊 Performance Analytics
+## Performance Analytics
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabriespindolae&show_icons=true&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700&border_color=1E90FF&border_radius=15"/>
@@ -94,7 +94,7 @@ console.log("🏆 Tricolor de coração desde sempre!");
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=montwh1te&bg_color=0A66C2&color=FFFFFF&line=FFD700&point=1E90FF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriespindola&bg_color=0A66C2&color=FFFFFF&line=FFD700&point=1E90FF&area=true&hide_border=true" />
 </div>
 
 ---
