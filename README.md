@@ -85,12 +85,12 @@ console.log("🏆 Tricolor de coração desde sempre!");
 ## 📊 Performance Analytics
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=montwh1te&show_icons=true&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700&border_color=1E90FF&border_radius=15"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montwh1te&layout=compact&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&border_color=1E90FF&border_radius=15"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabriespindolae&show_icons=true&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700&border_color=1E90FF&border_radius=15"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriespindola&layout=compact&theme=tokyonight&bg_color=0A66C2&title_color=FFFFFF&text_color=FFFFFF&border_color=1E90FF&border_radius=15"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=montwh1te&theme=tokyonight&background=0A66C2&stroke=FFFFFF&ring=FFD700&fire=FFD700&currStreakLabel=FFFFFF&border=1E90FF&border_radius=15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabriespindola&theme=tokyonight&background=0A66C2&stroke=FFFFFF&ring=FFD700&fire=FFD700&currStreakLabel=FFFFFF&border=1E90FF&border_radius=15"/>
 </div>
 
 <div align="center">
